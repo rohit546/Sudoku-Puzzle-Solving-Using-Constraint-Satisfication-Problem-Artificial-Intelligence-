@@ -1,0 +1,2 @@
+# Sudoku-Puzzle-Solving-Using-Constraint-Satisfication-Problem-Artificial-Intelligence-
+The Sudoku puzzle is a classic constraint satisfaction problem (CSP). Implement the Arc-Consistency 3 (AC-3) Algorithm and the Backtracking Algorithm to solve the Sudoku puzzle in Python, and compare their time complexities. The Sudoku puzzle board should feature a graphical user interface (GUI) using Tkinter..
